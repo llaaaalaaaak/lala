@@ -3,7 +3,7 @@
 if(!defined('BASEPATH')) echo "Tidak bisa langsung mengakses halaman ini!";
 
 define('DEFAULT_CONTROLLER', 'C_Auth');
-define('BASE_URL', 'http://rental-mobil.test/');
+define('BASE_URL', 'http://localhost/namafolder/');
 define('APP_NAME', 'Aplikasi Rental Mobil');
 
 define('DB_HOST', '172.23.0.2');
